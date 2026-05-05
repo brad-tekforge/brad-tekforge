@@ -8,9 +8,9 @@ Self-hosted stack operator. Vibe coder. System builder since before there were t
 
 ### What I do
 
-Design and operate infrastructure that is **reliable, understandable, and recoverable** — clear boundaries, least-privilege access, documented changes, patterns that stay maintainable as they grow.
+Design and operate infrastructure that is **reliable, understandable, and recoverable**; clear boundaries, least-privilege access, documented changes, patterns that stay maintainable as they grow.
 
-I've done helpdesk, solo IT departments, and regulated manufacturing environments. If you look at the resume, you might see a ladder. What I see is a continuous thread.
+I've done helpdesk, solo IT departments, and regulated manufacturing environments. 
 
 ---
 
