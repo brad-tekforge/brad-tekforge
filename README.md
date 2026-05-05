@@ -22,8 +22,8 @@ Identity         SSO · LDAP · centralized auth (citadel-ident)
 Edge             Nginx · Cloudflare · Tailscale VPN
 Monitoring       Agents + alerting · silence as signal
 OS               Linux-primary · Ubuntu Server · Debian
-Automation       Python · Bash · systemd timers
-AI layer         Ollama (local) · offload, not replacement
+Automation       Ansible · Python · Bash · systemd timers
+AI layer         Ollama (local) · (paused)
 ```
 
 ---
